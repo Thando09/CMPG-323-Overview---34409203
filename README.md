@@ -85,4 +85,7 @@ Phase 5.2: Feedback & evaluation
 
 I will be making use of the .gitignore in all of my repositories ,and this in turn will be me making it clear what files should not be accessed or rather ignored within every repository.
 
+## Credential Storage
+
+The entire project is public so the sharing of credentials will be open to anybody and everybody to access the information and data. So I have concluded that it is best to rather not store anything in the credential storage.
 
