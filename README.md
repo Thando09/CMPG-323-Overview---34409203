@@ -81,4 +81,8 @@ Phase 5.1:Reporting
 
 Phase 5.2:Feedback & evaluation 
 
+## Gitignore files
+
+I will be making use of the .gitignore in all of my repositories ,and this in turn will be me making it clear what files should not be accessed or rather ignored within every repository.
+
 
