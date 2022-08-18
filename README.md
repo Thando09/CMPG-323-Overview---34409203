@@ -24,15 +24,15 @@ Lastly this will be for our reporting and monitoring, this will include everythi
 
 ## List Of Repositories
 
-* Repository 1:Agile & Scrum
+* Repository 1: Agile & Scrum
 
-* Repository 2:API Development
+* Repository 2: API Development
 
-* Repository 3:Web App Project
+* Repository 3: Web App Project
 
-* Repository 4:RPA & Testing
+* Repository 4: RPA & Testing
 
-* Repository 5:Reporting & Monitoring 
+* Repository 5: Reporting & Monitoring 
 
 ## Branching Strategy
 
@@ -54,32 +54,32 @@ Phase 2.4:Push to main for project 2
 
 ### Project 3
 
-Phase 3.1:Creating a Web App.
+Phase 3.1: Creating a Web App.
 
-Phase 3.2:All the planning and development of the app.
+Phase 3.2: All the planning and development of the app.
 
-Phase 3.3:Coding,evalute the feautres and hotfixes if necessary 
+Phase 3.3: Coding,evalute the feautres and hotfixes if necessary 
 
-Phase 3.4:Same as phase 3.3.
+Phase 3.4: Same as phase 3.3.
 
-Phase 3.5:Push to main for project 3.
+Phase 3.5: Push to main for project 3.
 
 ### Project 4
 
 
-Phase 4.1:RPA & Testing
+Phase 4.1: RPA & Testing
 
-Phase 4.2:Strictly Testing
+Phase 4.2: Strictly Testing
 
-Phase 4.3:Debugging & Hotfixxing
+Phase 4.3: Debugging & Hotfixxing
 
-Phase 4.4:Apply fixes
+Phase 4.4: Apply fixes
 
 ### Project 5
 
-Phase 5.1:Reporting
+Phase 5.1: Reporting
 
-Phase 5.2:Feedback & evaluation 
+Phase 5.2: Feedback & evaluation 
 
 ## Gitignore files
 
