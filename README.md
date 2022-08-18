@@ -24,21 +24,24 @@ Lastly this will be for our reporting and monitoring, this will include everythi
 
 ## List Of Repositories
 
-Repository 1:Agile & Scrum
+* Repository 1:Agile & Scrum
 
-Repository 2:API Development
+* Repository 2:API Development
 
-Repository 3:Web App Project
+* Repository 3:Web App Project
 
-Repository 4:RPA & Testing
+* Repository 4:RPA & Testing
 
-Repository 5:Reporting & Monitoring 
+* Repository 5:Reporting & Monitoring 
 
 ## Branching Strategy
 
 ### Project 1:
 
 Phase 1.1: Development of project 1 and feature editing
+
 Phase 1.2: The project willn then be pushed to main.
+
+### Projeect 2
 
 
