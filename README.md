@@ -44,4 +44,41 @@ Phase 1.2: The project willn then be pushed to main.
 
 ### Projeect 2
 
+Phase 2.1: API is then developed for second project.
+
+Phase 2.2: We then need to evaluate the feautres an d hotfix.
+
+Phase 2.3:Review if project works accordingly
+
+Phase 2.4:Push to main for project 2
+
+### Project 3
+
+Phase 3.1:Creating a Web App.
+
+Phase 3.2:All the planning and development of the app.
+
+Phase 3.3:Coding,evalute the feautres and hotfixes if necessary 
+
+Phase 3.4:Same as phase 3.3.
+
+Phase 3.5:Push to main for project 3.
+
+### Project 4
+
+
+Phase 4.1:RPA & Testing
+
+Phase 4.2:Strictly Testing
+
+Phase 4.3:Debugging & Hotfixxing
+
+Phase 4.4:Apply fixes
+
+### Project 5
+
+Phase 5.1:Reporting
+
+Phase 5.2:Feedback & evaluation 
+
 
