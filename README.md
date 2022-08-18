@@ -20,9 +20,13 @@ Lastly this will be for our reporting and monitoring, this will include everythi
 ## List Of Repositories
 
 Repository 1:Agile & Scrum
+
 Repository 2:API Development
+
 Repository 3:Web App Project
+
 Repository 4:RPA & Testing
+
 Repository 5:Reporting & Monitoring 
 
 ## Branching Strategy
